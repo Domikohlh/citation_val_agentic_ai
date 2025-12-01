@@ -30,6 +30,8 @@ Configuration in Google Doc:
 
 - Go back to the main doc page and you will see "CitVa- Research Validator" on the menu 
 
+<img src="picture/flow_diagram.png" alt="Logo" width="120"/>
+
 ### How to use CitVa?
 
 *Press the "Set/Reset Drive Folder" to ensure there is no Google Driver link. (For first time use only)*
