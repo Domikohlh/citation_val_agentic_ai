@@ -6,7 +6,7 @@ const UI_SIDEBAR_TITLE = 'Research Assistant';
 // === MENU SETUP ===
 function onOpen() {
   DocumentApp.getUi()
-    .createMenu('CiVa- Research Validator')
+    .createMenu('CitVa- Research Validator')
     .addItem('⚙️ Set/Reset Drive Folder', 'resetFolderId')
     .addSeparator()
     .addItem('1. 📂 Sync & Audit Library (Librarian)', 'runLibrarianSync') 
