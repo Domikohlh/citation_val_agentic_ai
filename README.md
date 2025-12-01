@@ -36,6 +36,7 @@ Configuration in Google Doc:
 *Press the "Set/Reset Drive Folder" to ensure there is no Google Driver link. (For first time use only)*
 
 *Copy an article or research paper for template.*
+*All agents are fed with log tracing for observability. Please read the "agent_trace.jsonl" on the same directory*
 
 # Feature 1: Bulk Validation References
 1. Go to your reference list and highlight the whole reference list.
