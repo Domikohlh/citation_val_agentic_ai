@@ -1,5 +1,5 @@
 ### Introduction
-Hi,Welcome to CitVa. This is the capstone project created for the 5-day intensive AI agent course for Google and Kaggle. 
+Hi, Welcome to CitVa. This is the capstone project created for the 5-day intensive AI agent course for Google and Kaggle. 
 
 
 ![Banner](picture/Logo.png)
