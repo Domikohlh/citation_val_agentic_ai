@@ -5,7 +5,7 @@ This repository serves as a submission artifact for the Google Cloud & Kaggle Ag
 
 **Third-Party Rights**: This software includes automated agents capable of retrieving and processing digital documents. It is the end-user's responsibility to respect Copyright policies. This tool should not be used to bypass paywalls or download content without authorization.
 
-**Google Services**: This project utilizes Google Vertex AI and Google Drive APIs. Users are responsible for their own API costs and quota management.
+**Google Services**: This project utilizes Google Vertex AI, Ngrok and Google Drive APIs. Users are responsible for their own API costs and quota management.
 
 **No Liability**: The author(s) of this repository are not liable for any damages, IP bans, or legal consequences arising from the use or misuse of this software.
 
