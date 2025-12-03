@@ -18,7 +18,7 @@ Hi! Welcome to Citation Validation using Multi-agentic system (CitVa). This soft
 ![Banner](picture/Logo.png)
 
 
-### 🛠️ Configurations & Setup
+# 🛠️ Configurations & Setup
 
 There are two scripts in this project:
 
