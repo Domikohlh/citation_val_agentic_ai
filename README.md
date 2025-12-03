@@ -68,26 +68,12 @@ Configuration in Google Doc:
 3. Simply remove all colours
 
 
-### Problem Statement -- 
-
-Academic researchers are heavily relying on generative AI for literature research since GenAI becomes popular nowadays. However, AI hallucination is a critical problem due to the generation of non-existent research links without validation. Additionally, AI plagiarism also leads to an increasing trend of academic integrity issues and concerns of generative AI usage in academia, while researchers may incorrectly cite or quote their sentences that are not matching the citation contents. For instance, [A PhD student studies at the University of Hong Kong was reported in the usage of AI whereas some citations are invalid in their PhD thesis.] (https://hongkongfp.com/2025/11/10/university-of-hong-kong-probes-non-existent-ai-generated-references-in-paper-prof-says-content-not-fabricated/)
-
-Therefore, this project aims to help researchers to validate their citation source and provide quotation advices.  
-
-### Why agents? -- 
-
-Manual literature fact check spends significant human time, especially in large research and literature review, which cites a large amount of papers. In addition to AI hallucinations, whereas GenAI is not able to validate the source or tailor for specific research. AI agent can automatically validate the citation lists to existing resources (Google Scholar) and provide quotation advisory in related sentences. 
-
-### What you created --
-
 This project aims to be lightweight and Google-native:
 
 - The Brain (LLM): Gemini-2.5-Flash (Vertexai).
 - The Hands (Tools): Google Workplace (Doc), Google Search.
 - Orchestration: Three agentic AI are involved: (i) Validator; (ii) Librarian; (iii) Tracer.
 - AppScripts for visualisation in Google Doc.
-
-### Demo -- Will be showed in Youtube Video  
 
 ### The Build -- 
 
@@ -109,10 +95,3 @@ Agent 3. Tracer
 - Match citations and plagiarisms from the vectors and manuscripts ---- [✅]
 - *"cosine-similarity"* to quantify the matching scores ---- [✅]
 - Advanced alignment with the similarity score to ensure good quality of results ---- [✅]
-
-### If I had more time, this is what I'd do
-- A more user-friendly Google Drive upload to avoid Service Account complications in Google Cloud for non-tech users. 
-- Use of Semantic Scholar API to search for brief summary of articles to enhance the accuracy of validator.
-- Implementation into MS system as most researchers prefer MS words. 
-- Better UI/UX. 
-- Improve the latency
