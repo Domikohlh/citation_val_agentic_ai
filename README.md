@@ -101,7 +101,7 @@ Agent 2. Librarian
 - Read the article PDF in Google Drive ---- [✅]
 - Extract title and DOI from the reference list ---- [✅]
 - Read, secure and embed the PDF in archive/main chomaDB while preventing prompt injection and filter invalid PDFs---- [✅]
-- A2A protocol with Validator as a gatekeeper to further validate and align the reference list---- [✅]
+- Use of simple sub-agent as a gatekeeper to further validate and align the reference list---- [✅]
 
 Agent 3. Tracer
 - Retrieve vectors from chomaDB ---- [✅]
