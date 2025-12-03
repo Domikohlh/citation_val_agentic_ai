@@ -12,7 +12,7 @@ This repository serves as a submission artifact for the Google Cloud & Kaggle Ag
 *By cloning, forking, or running this repository, you acknowledge that you have read this disclaimer and agree to be bound by its terms.*
 
 # 📝 Introduction
-Hi! Welcome to Citation Validation using Multi-agentic system (CitVa). This software aims to help researchers on improving their literature search experience with GenAI and reduce manual reference fact-checking. Please read the instructions below carefully to ensure a flawless experience. 
+Hi! Welcome to Citation Validation using Multi-agentic system (CitVa). This software aims to help researchers on improving their literature search experience with extra grounding and reduce manual reference fact-checking. Please read the instructions below carefully to ensure a flawless experience. 
 
 
 ![Banner](picture/Logo.png)
