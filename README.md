@@ -1,4 +1,4 @@
-### Introduction
+#Introduction
 Hi, Welcome to CitVa. This is the capstone project created for the 5-day intensive AI agent course for Google and Kaggle. 
 
 
@@ -68,14 +68,13 @@ Configuration in Google Doc:
 3. Simply remove all colours
 
 
+# The Build 
 This project aims to be lightweight and Google-native:
 
 - The Brain (LLM): Gemini-2.5-Flash (Vertexai).
 - The Hands (Tools): Google Workplace (Doc), Google Search.
 - Orchestration: Three agentic AI are involved: (i) Validator; (ii) Librarian; (iii) Tracer.
 - AppScripts for visualisation in Google Doc.
-
-### The Build -- 
 
 Agent 1. Validator
 - Validate the reference(s) in single/list entry ---- [✅]
