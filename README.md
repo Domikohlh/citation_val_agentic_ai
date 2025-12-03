@@ -3,7 +3,7 @@ This repository serves as a submission artifact for the Google Cloud & Kaggle Ag
 
 **Non-Production Status**: This code is experimental. It has not undergone security auditing or performance optimization.
 
-**Third-Party Rights**: This software includes automated agents capable of retrieving and processing digital documents. It is the end-user's responsibility to respect Copyright Law and Robots.txt policies. This tool should not be used to bypass paywalls or download content without authorization.
+**Third-Party Rights**: This software includes automated agents capable of retrieving and processing digital documents. It is the end-user's responsibility to respect Copyright policies. This tool should not be used to bypass paywalls or download content without authorization.
 
 **Google Services**: This project utilizes Google Vertex AI and Google Drive APIs. Users are responsible for their own API costs and quota management.
 
