@@ -31,14 +31,14 @@ Configuration in Google Doc:
 - Go back to the main doc page and you will see "CitVa- Research Validator" on the menu 
 
 ![Banner](picture/flow_diagram.png)
-### How to use CitVa?
+# How to use CitVa?
 
 *Press the "Set/Reset Drive Folder" to ensure there is no Google Driver link. (For first time use only)*
 
 *Copy an article or research paper for template.*
 *All agents are fed with log tracing for observability. Please read the "agent_trace.jsonl" on the same directory*
 
-# Feature 1: Bulk Validation References
+## Feature 1: Bulk Validation References
 1. Go to your reference list and highlight the whole reference list.
 2. Click "2. ✅ Bulk Validate References (Validator)".
 3. It will take less than a minute to process {Vary by the number of references}
@@ -51,18 +51,18 @@ Configuration in Google Doc:
 3. It will take less than 30 seconds to process
 4. Generate a full report of the verification
 
-# Feature 2: Librarian & GateKeeper (*Recommended to try for a small amount of PDF for quicker testing*)
+## Feature 2: Librarian & GateKeeper (*Recommended to try for a small amount of PDF for quicker testing*)
 1. Upload all PDFs in your reference list to the linked Google Drive Folder
 2. Click "1. 📂 Sync & Audit Library (Librarian)"
 3. It will take some times to read, validate, and embed {Vary by the number of PDF}
 4. Generate a full report of which references are valid, invalid, and missed 
 
-# Feature 3: Tracer 
+## Feature 3: Tracer 
 1. Click "3. 🔎 Run Tracer Agent (Tracer)" directly WITHOUT highlighting anything
 2. It will take some times to run, read, and retrieve
 3. Generate a list of matching sentences with the references and provide suggestions on the right menu panel
 
-# Feature 4: Clear Highlight
+## Feature 4: Clear Highlight
 1. Click "Clear Highlights"
 2. Confirm that you want to remove all colours on the doc
 3. Simply remove all colours
