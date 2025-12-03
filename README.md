@@ -7,7 +7,7 @@ This repository serves as a submission artifact for the Google Cloud & Kaggle Ag
 
 **Google Services**: This project utilizes Google Vertex AI, Ngrok and Google Drive APIs. Users are responsible for their own API costs and quota management.
 
-**No Liability**: The author(s) of this repository are not liable for any damages, IP bans, or legal consequences arising from the use or misuse of this software.
+**No Liability**: The author of this repository are not liable for any damages, IP bans, or legal consequences arising from the use or misuse of this software.
 
 *By cloning, forking, or running this repository, you acknowledge that you have read this disclaimer and agree to be bound by its terms.*
 
@@ -64,7 +64,7 @@ Configuration in Google Doc:
 3. It will take less than 30 seconds to process
 4. Generate a full report of the verification
 
-## 2️⃣ Librarian & GateKeeper (*Recommended to try for a small amount of PDF for quicker testing*)
+## 2️⃣ Librarian & GateKeeper (*Recommended to try on a small amount of PDF for faster testing*)
 1. Upload all PDFs in your reference list to the linked Google Drive Folder
 2. Click "1. 📂 Sync & Audit Library (Librarian)"
 3. It will take some times to read, validate, and embed {Vary by the number of PDF}
