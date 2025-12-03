@@ -30,7 +30,6 @@ Configuration in Google Doc:
 
 - Go back to the main doc page and you will see "CitVa- Research Validator" on the menu 
 
-![Banner](picture/flow_diagram.png)
 # How to use CitVa?
 
 *Press the "Set/Reset Drive Folder" to ensure there is no Google Driver link. (For first time use only)*
@@ -69,6 +68,8 @@ Configuration in Google Doc:
 
 
 # The Build 
+![Banner](picture/flow_diagram.png)
+
 This project aims to be lightweight and Google-native:
 
 - The Brain (LLM): Gemini-2.5-Flash (Vertexai).
